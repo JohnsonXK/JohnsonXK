@@ -1,0 +1,136 @@
+   html {
+      background-image: url("./assets/resources/bg.gif");
+      background-color: black;
+      background-repeat: repeat;
+      background-size: 100% auto;
+   }
+   
+   }
+   .margin {
+      margin: 5px;
+      background-blend-mode: difference;
+      border-radius: 10px;
+      max-height: 50px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+   }
+   .align {
+      background-color: #00535a88; 
+      text-align: center;
+      border-radius: 10px;
+   }
+
+   .welcome_border {
+      text-align: center;
+      background-color: #00535a88;      
+      border-radius: 20px;
+      margin: 10px;
+   }
+   .welcome_style {
+      mix-blend-mode: lighten;
+      max-width: 95%;
+   }
+   
+   .txt {
+      color: cyan;
+      font-size: 40px;
+   }
+   
+   .buttons {
+      text-align: center;
+   }
+   .button1 {
+      width: 100px;
+      height: 50px;
+      border-radius: 10px;
+      border-width: 5px;
+      border-color: #00e9fe;
+      background-color: #004f56;
+      color: cyan;
+      margin: 20px;
+   }
+   
+   .buttonred {
+      width: 100px;
+      height: 50px;
+      border-radius: 10px;
+      border-width: 5px;
+      border-color: #ff000a;
+      background-color: #6c0004;
+      color: cyan;
+      margin: 20px;
+   }
+    
+   .hidden {
+      color: transparent;
+   }   
+   
+   .txt-style {
+      color: cyan;
+      text-align: center;
+      margin: 20px;
+      background: #00383d;
+      border-radius: 20px;
+   }
+   
+   .wha {
+      max-height: 50px;
+      float: left;
+   }
+   
+   .profile {
+      margin-top: 20px;
+      display: flex;
+      vertical-align: top;
+      
+   }
+   .pic {
+      height: 100px;
+      border-radius: 100px;
+      mix-blend-mode: lighten;
+   }
+   .logo {
+      color: cyan;
+      font-size: 30px;
+      font-family: fantasy;
+      font-weight: 1000;
+      margin-left: 20px;
+   }
+   .fbdirectbuttons {
+      flex-direction: column;
+   }
+   
+   li {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      color: cyan;
+   }
+   
+   .fbutton {
+      flex-direction: column;
+      height: 50px;
+      width: 100px;
+   }
+   
+   .mediafire {
+      text-align: center;
+   }
+
+   .button2 {
+      width: 100px;
+      height: 50px;
+      border-radius: 10px;
+      border-width: 5px;
+      border-color: #00e9fe;
+      background-color: #004f56;
+      color: cyan;
+      margin: 20px;
+   }
+   
+   .longspacefromabove {
+      margin-top: 150px;
+      text-align: center;
+   }
