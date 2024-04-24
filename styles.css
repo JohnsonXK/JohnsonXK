@@ -83,14 +83,14 @@
    
    .profile {
       margin-top: 20px;
-      display: flex;
-      vertical-align: top;
+      text-align: center;
       
    }
    .pic {
       height: 100px;
       border-radius: 100px;
       mix-blend-mode: lighten;
+      text-align: center;
    }
    .logo {
       color: cyan;
@@ -134,3 +134,10 @@
       margin-top: 150px;
       text-align: center;
    }
+
+   h1 {
+      color: cyan;
+   }
+   h2 {
+      color: cyan;
+      }
